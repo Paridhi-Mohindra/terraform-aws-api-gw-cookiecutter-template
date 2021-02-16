@@ -1,0 +1,5 @@
+{
+    "project_name": "aws_api_gateway_terraform_scripts",
+    "version": "0.0.1-SNAPSHOT",
+    "version_control": ["git", "none"]
+}
